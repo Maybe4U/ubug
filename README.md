@@ -2,7 +2,7 @@
 UBug主要功能是将应用crash日志保存到本地以定位应用崩溃原因。
 ##UBug的使用
 ### Step.1
-`implementation 'io.github.maybe4u:ubug:0.0.2'`
+`implementation 'io.github.maybe4u:ubug:0.0.3'`
 ### Step.2
 在自己的`Application`中进行初始化。
 
